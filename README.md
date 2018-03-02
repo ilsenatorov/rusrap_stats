@@ -1,1 +1,3 @@
-# rusrap_stats
+# Statistical comparative analysis of Russian rap artists
+
+ 
